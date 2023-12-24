@@ -1,0 +1,9 @@
+.vs/
+StudentGradeReport/bin/
+StudentGradeReport/obj/
+StudentGradeReport.Application/obj/
+StudentGradeReport.Data/bin/
+StudentGradeReport.Data/obj/
+StudentGradeReport.Application/bin/
+obj/
+StudentGradeReport/StudentGradeReport.API.csproj.user
